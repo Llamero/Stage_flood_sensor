@@ -9,7 +9,7 @@ This is an open-source liquid sensor for microscopes.  It works by measuring the
 
 The four-layer layout with a grid of vias connecting to the layers allows for the the sensor board to be cut and shaped as needed without interfering with the electrical connections.  
 
-##Installation (Arduino Uno):
+## Installation (Arduino Uno):
 
 1) Order the sensor PCB by uploading the provided Gerber files to a PCB manufacturer such as [OSH Park](https://oshpark.com/), [PCBWay](https://www.pcbway.com/orderonline.aspx), [Ailser](https://aisler.net/), etc.
 2) If using an Arduino, order the following items:

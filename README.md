@@ -39,8 +39,8 @@ The four-layer layout with a grid of vias connecting to the layers allows for th
 1) Follow steps 1-5 for the Arduino Uno installation
 2) Connect the wires to the "External Therm" port on the LED driver.
 3) Set the "External Fault" temperature to 0° and the "External Warn" temperature to 1°C.  For higher sensitivity, also increase the "Resistance at 25°C" value.  For example, a value of 90000 will allow the sensor to detect deionized water.
-![](Design%20files/Images/LED%20Driver%20GUI.PNG)
 
+![](Design%20files/Images/LED%20Driver%20GUI.PNG)
 
 ## Troubleshooting 
 
